@@ -31,8 +31,7 @@ This project is a secure and transparent platform designed to file and manage po
 - `WEB-INF/web.xml` - Deployment descriptor for servlet configuration
 
 ## Screenshots
-*(Add your screenshots here if available)*  
-Example:  
+
 ![Home Page](img/home-image1.jpg)  
 ![Admin Dashboard](img/contact-img.jpg)
 
@@ -42,4 +41,3 @@ Final Year Computer Science & Engineering Student
 
 ---
 
-Feel free to customize or ask if you want me to add installation scripts, API docs, or anything else!
