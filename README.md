@@ -34,7 +34,7 @@ This project is a secure and transparent platform designed to file and manage po
 *(Add your screenshots here if available)*  
 Example:  
 ![Home Page](img/home-image1.jpg)  
-![Admin Dashboard](img/admin-dashboard.jpg)
+![Admin Dashboard](img/contact-img.jpg)
 
 ## Author
 Priyanka H  
