@@ -1,0 +1,15 @@
+1.	Complaint: My house is on fire and I need immediate assistance from the authorities. Details: My house is on fire and I need the fire department to come and extinguish the fire. I am currently trapped inside and need help getting out safely.
+2.	Complaint: My child has gone missing and I need immediate   assistance from the authorities.   Details: My child has gone missing and I am unable to find them. I need Hijacking  the police to come and help me search for my child immediately.
+3.	Complaint: I am being physically attacked and need immediate assistance from the authorities. Details: I am being physically attacked by someone and need the police to come and stop the attacker immediately. I fear for my safety and need help right away.
+4.	Complaint: I witnessed a serious accident and need immediate assistance from the authorities.   Details: I witnessed a serious accident involving multiple vehicles and people. I need the ambulance and police to come to the scene and help those who are injured.
+5.	Complaint: I am being threatened with a weapon and need immediate assistance from the authorities. Details: Someone is threatening me with a weapon and I fear for my life. I need the police to come and  neutralize the situation as soon as possible.
+6.	Complaint: I have been a victim of a serious robbery and need immediate assistance from the authorities. Details: I have been robbed at gunpoint and need the police to come and help me. The robber took all my valuables and I fear for my safety.
+7.	Complaint: I am trapped in a dangerous   situation and need  immediate   assistance from the authorities. Details: I am trapped in a dangerous situation and need help getting out. The situation is life-threatening and I need the authorities to act quickly.
+8.	Complaint: I am a victim of a serious assault and need immediate assistance from the authorities. Details: I have been physically assaulted by someone and need medical attention immediately. I need the police to come and investigate the situation.
+9.	Complaint: I am a victim of a serious crime and need immediate assistance from the authorities. Details: I have been a victim of a serious crime and need the police to come and help me. The crime has left me injured and I fear for my safety.
+10.	Complaint: I am witnessing a serious crime taking place and need immediate assistance from the authorities. Details: I am witnessing a serious crime taking place and need the police to come and stop it. The Hijacking crime is putting many people in danger and needs to be dealt with quickly.
+
+
+
+
+

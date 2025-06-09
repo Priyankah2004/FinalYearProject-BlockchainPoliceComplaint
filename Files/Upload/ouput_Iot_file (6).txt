@@ -1,0 +1,58 @@
+
+
+
+<html>
+<head>
+	<link href="/Proxy_reencryption_IOT/AllFiles/CSS/style.css" rel="stylesheet" type="text/css" />
+	<link href="/Proxy_reencryption_IOT/AllFiles/CSS/message.css" rel="stylesheet" type="text/css" />
+	<link href="/Proxy_reencryption_IOT/AllFiles/CSS/button.css" rel="stylesheet" type="text/css" />
+	<link href="/Proxy_reencryption_IOT/AllFiles/CSS/login.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/Proxy_reencryption_IOT/AllFiles/JS/style.js"></script>
+	<script type="text/javascript" src="/Proxy_reencryption_IOT/AllFiles/JS/pagination.js"></script>
+
+</head>
+<body onload="startTimer()">
+
+
+
+	<div id="a2" style="position:absolute;top:40px;left:25" class="c">
+	<table id="login" align="center">
+	    
+	    <h1 align="center"><font color="green" style="font-style: bold" size="5">File Download Acknowledgement</font></h1>
+	    
+		<hr size="10" color="#5E74D8"></hr>
+		
+		
+		<tr  bgcolor="#A9D2FB" align="center">
+		
+		    <td colspan="3" align="center"><pre><font color="green">Your File has been Downloaded Successfully......</font></pre></td>
+		    
+	    </tr>
+	    
+	    <tr  bgcolor="#A9D2FB" align="center">
+		
+		    <td><pre><font color="white">File Name</font></pre></td>
+		    <td>:</td>
+		    <td>Iot_file.txt</td>
+		    
+	    </tr>
+	   
+	    
+	     <tr  bgcolor="#A9D2FB" align="center">
+		
+		    <td><pre><font color="white">Date </font></pre></td>
+		    <td>:</td>
+		    <td>22-12-2023 &nbsp;&nbsp;13:00:45</td>
+		    
+	    </tr>
+	    
+	</table>
+	</div>
+
+
+
+</body>
+</html>
+
+
+

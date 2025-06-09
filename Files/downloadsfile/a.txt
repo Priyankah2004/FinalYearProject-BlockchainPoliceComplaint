@@ -1,0 +1,41 @@
+Title: "iris authentication based bank management system" 
+==========================
+About project:
+The "Iris-Based Bank Management System" is an innovative and secure approach to enhancing bank management 
+system using biometric technology. The project leverages iris recognition technology to provide seamless 
+and reliable authentication for customers within the banking environment. This system aims to 
+streamline various banking processes while ensuring a high level of security and efficiency.
+
+In my project i have two modules one is bank and another one is customer. The bank can create the customer's account with finger print and display 
+the customers accounts.In customer part have login page with finger print authentication while entering customer and customer can widthral his own 
+money and customer has to create benificery account to share money to friends and others with voice over the each transactions.
+
+Project Description:
+Within my project, I designed and implemented a comprehensive system comprising two distinct modules: the Bank Module and the Customer Module. 
+
+The Bank Module empowers bank personnel to efficiently create customer accounts using fingerprint-based authentication. This module also facilitates
+the seamless display of customer account information, ensuring swift access to crucial details. On the other hand, the Customer Module offers a 
+secure and user-friendly login interface, utilizing fingerprint authentication for heightened security. Once authenticated, customers gain access to
+a range of functionalities, including the ability to initiate withdrawals from their own accounts.Furthermore, the Customer Module includes a 
+feature allowing customers to establish beneficiary accounts. This functionality facilitates the convenient sharing of funds with friends and other 
+individuals. An innovative aspect of this feature is the incorporation of voice-over guidance for each transaction, enhancing the accessibility and 
+usability of the system. Through this project, I successfully merged cutting-edge biometric authentication, secure transaction handling, and 
+intuitive user interfaces to create a holistic bank management solution that enhances security and efficiency for both bank personnel and customers.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The "Iris-Based Bank Management System" is an innovative and secure approach to enhancing bank management 
+system using iris recognition by python library called openCV. The project leverages iris recognition technology to provide seamless 
+and reliable authentication for customers within the banking environment. This system aims to 
+streamline various banking processes while ensuring a high level of security and efficiency.
+
+In my project, I developed two main modules: the Bank Module and the Customer Module. The Bank Module enables account creation using 
+Iris authentication. The Customer Module features a Iris-secured login, allowing customers to withdraw funds, create beneficiary 
+accounts for sharing money, and includes voice-guided transactions.
+     
+
+
+
+use word_counts_db;
+SELECT words, count, termfrequency
+FROM sensitive_data 
+JOIN word_counts ON sensitive_data.words = word_counts.word; 	

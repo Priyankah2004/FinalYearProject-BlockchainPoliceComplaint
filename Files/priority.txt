@@ -1,0 +1,1 @@
+Homicide,Murder,Manslaughter,Attempted murder,Assassination,Mass shooting,Bombing,Terrorism,Kidnapping,Hostage-taking,Hijacking,Extortion,Genocide,Rape,Euthanasia,Espionage
